@@ -66,6 +66,7 @@ test = [
     "pytest",
     "pytest-rerunfailures",
     "pytest-tornasync",
+    "pytest-timeout",
 ]
 
 [project.scripts]
